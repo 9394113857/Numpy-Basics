@@ -1,2 +1,1 @@
-# Numpy-Basics
-Numpy-Basics
+# Numpy
